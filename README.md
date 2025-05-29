@@ -101,7 +101,6 @@ The project enables deep insights into store performance, product sales, warrant
 
 - ✅ Fully normalized SQL schema.
 - ✅ Raw data files (CSV).
-- ✅ Power BI dashboard.
 - ✅ 20+ advanced SQL queries for insights.
 - ✅ Clean, modular project structure.
 

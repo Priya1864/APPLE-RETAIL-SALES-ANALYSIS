@@ -1,0 +1,166 @@
+store_id,store_name,city,country
+ST-1,Apple Fifth Avenue,New York,USA
+ST-2,Apple Regent Street,London,UK
+ST-3,Apple Champs-Élysées,Paris,France
+ST-4,Apple Marunouchi,Tokyo,Japan
+ST-5,Apple Dubai Mall,Dubai,UAE
+ST-6,Apple Via del Corso,Rome,Italy
+ST-7,Apple Palo Alto,Palo Alto,USA
+ST-8,Apple Shanghai Jing’an,Shanghai,China
+ST-9,Apple Sydney,Sydney,Australia
+ST-10,Apple Kurfürstendamm,Berlin,Germany
+ST-11,Apple San Francisco,San Francisco,USA
+ST-12,Apple Chicago,Chicago,USA
+ST-13,Apple Los Angeles,Los Angeles,USA
+ST-14,Apple Mumbai,Mumbai,India
+ST-15,Apple Delhi,Delhi,India
+ST-16,Apple Bangalore,Bangalore,India
+ST-17,Apple Seoul,Seoul,South Korea
+ST-18,Apple Beijing,Beijing,China
+ST-19,Apple Toronto,Toronto,Canada
+ST-20,Apple Barcelona,Barcelona,Spain
+ST-21,Apple Amsterdam,Amsterdam,Netherlands
+ST-22,Apple Zurich,Zurich,Switzerland
+ST-23,Apple Mexico City,Mexico City,Mexico
+ST-24,Apple Bangkok,Bangkok,Thailand
+ST-25,Apple Istanbul,Istanbul,Turkey
+ST-26,Apple Singapore,Singapore,Singapore
+ST-27,Apple Hong Kong,Hong Kong,China
+ST-28,Apple Sao Paulo,Sao Paulo,Brazil
+ST-29,Apple Milan,Milan,Italy
+ST-30,Apple Madrid,Madrid,Spain
+ST-31,Apple Copenhagen,Copenhagen,Denmark
+ST-32,Apple Brussels,Brussels,Belgium
+ST-33,Apple Stockholm,Stockholm,Sweden
+ST-34,Apple Vienna,Vienna,Austria
+ST-35,Apple Jakarta,Jakarta,Indonesia
+ST-36,Apple Doha,Doha,Qatar
+ST-37,Apple Kuala Lumpur,Kuala Lumpur,Malaysia
+ST-38,Apple Cape Town,Cape Town,South Africa
+ST-39,Apple Lisbon,Lisbon,Portugal
+ST-40,Apple Helsinki,Helsinki,Finland
+ST-41,Apple Oslo,Oslo,Norway
+ST-42,Apple Auckland,Auckland,New Zealand
+ST-43,Apple Dublin,Dublin,Ireland
+ST-44,Apple Warsaw,Warsaw,Poland
+ST-45,Apple Budapest,Budapest,Hungary
+ST-46,Apple Athens,Athens,Greece
+ST-47,Apple Manila,Manila,Philippines
+ST-48,Apple Lagos,Lagos,Nigeria
+ST-49,Apple Riyadh,Riyadh,Saudi Arabia
+ST-50,Apple Tel Aviv,Tel Aviv,Israel
+ST-51,Apple Prague,Prague,Czech Republic
+ST-52,Apple Hanoi,Hanoi,Vietnam
+ST-53,Apple Taipei,Taipei,Taiwan
+ST-54,Apple Casablanca,Casablanca,Morocco
+ST-55,Apple Edinburgh,Edinburgh,UK
+ST-56,Apple Glasgow,Glasgow,UK
+ST-57,Apple San Jose,San Jose,USA
+ST-58,Apple Phoenix,Phoenix,USA
+ST-59,Apple Boston,Boston,USA
+ST-60,Apple Seattle,Seattle,USA
+ST-61,Apple Houston,Houston,USA
+ST-62,Apple San Diego,San Diego,USA
+ST-63,Apple Atlanta,Atlanta,USA
+ST-64,Apple Denver,Denver,USA
+ST-65,Apple Detroit,Detroit,USA
+ST-66,Apple Minneapolis,Minneapolis,USA
+ST-67,Apple San Francisco,San Francisco,USA
+ST-68,Apple Chicago,Chicago,USA
+ST-69,Apple Los Angeles,Los Angeles,USA
+ST-70,Apple Mumbai,Mumbai,India
+ST-71,Apple Delhi,Delhi,India
+ST-72,Apple Bangalore,Bangalore,India
+ST-73,Apple Seoul,Seoul,South Korea
+ST-74,Apple Beijing,Beijing,China
+ST-75,Apple Toronto,Toronto,Canada
+ST-76,Apple Barcelona,Barcelona,Spain
+ST-77,Apple Amsterdam,Amsterdam,Netherlands
+ST-78,Apple Zurich,Zurich,Switzerland
+ST-79,Apple Mexico City,Mexico City,Mexico
+ST-80,Apple Bangkok,Bangkok,Thailand
+ST-81,Apple Istanbul,Istanbul,Turkey
+ST-82,Apple Singapore,Singapore,Singapore
+ST-83,Apple Hong Kong,Hong Kong,China
+ST-84,Apple Sao Paulo,Sao Paulo,Brazil
+ST-85,Apple Milan,Milan,Italy
+ST-86,Apple Madrid,Madrid,Spain
+ST-87,Apple Copenhagen,Copenhagen,Denmark
+ST-88,Apple Brussels,Brussels,Belgium
+ST-89,Apple Stockholm,Stockholm,Sweden
+ST-90,Apple Vienna,Vienna,Austria
+ST-91,Apple Jakarta,Jakarta,Indonesia
+ST-92,Apple Doha,Doha,Qatar
+ST-93,Apple Kuala Lumpur,Kuala Lumpur,Malaysia
+ST-94,Apple Cape Town,Cape Town,South Africa
+ST-95,Apple Lisbon,Lisbon,Portugal
+ST-96,Apple Helsinki,Helsinki,Finland
+ST-97,Apple Oslo,Oslo,Norway
+ST-98,Apple Auckland,Auckland,New Zealand
+ST-99,Apple Dublin,Dublin,Ireland
+ST-100,Apple Warsaw,Warsaw,Poland
+ST-101,Apple Budapest,Budapest,Hungary
+ST-102,Apple Athens,Athens,Greece
+ST-103,Apple Manila,Manila,Philippines
+ST-104,Apple Lagos,Lagos,Nigeria
+ST-105,Apple Riyadh,Riyadh,Saudi Arabia
+ST-106,Apple Tel Aviv,Tel Aviv,Israel
+ST-107,Apple Prague,Prague,Czech Republic
+ST-108,Apple Hanoi,Hanoi,Vietnam
+ST-109,Apple Taipei,Taipei,Taiwan
+ST-110,Apple Casablanca,Casablanca,Morocco
+ST-111,Apple Edinburgh,Edinburgh,UK
+ST-112,Apple Glasgow,Glasgow,UK
+ST-113,Apple San Jose,San Jose,USA
+ST-114,Apple Phoenix,Phoenix,USA
+ST-115,Apple Boston,Boston,USA
+ST-116,Apple Seattle,Seattle,USA
+ST-117,Apple Houston,Houston,USA
+ST-118,Apple San Diego,San Diego,USA
+ST-119,Apple Atlanta,Atlanta,USA
+ST-120,Apple Denver,Denver,USA
+ST-121,Apple Detroit,Detroit,USA
+ST-122,Apple Minneapolis,Minneapolis,USA
+ST-123,Apple San Francisco,San Francisco,USA
+ST-124,Apple Chicago,Chicago,USA
+ST-125,Apple Los Angeles,Los Angeles,USA
+ST-126,Apple Mumbai,Mumbai,India
+ST-127,Apple Delhi,Delhi,India
+ST-128,Apple Bangalore,Bangalore,India
+ST-129,Apple Seoul,Seoul,South Korea
+ST-130,Apple Beijing,Beijing,China
+ST-131,Apple Toronto,Toronto,Canada
+ST-132,Apple Barcelona,Barcelona,Spain
+ST-133,Apple Amsterdam,Amsterdam,Netherlands
+ST-134,Apple Zurich,Zurich,Switzerland
+ST-135,Apple Mexico City,Mexico City,Mexico
+ST-136,Apple Bangkok,Bangkok,Thailand
+ST-137,Apple Istanbul,Istanbul,Turkey
+ST-138,Apple Singapore,Singapore,Singapore
+ST-139,Apple Hong Kong,Hong Kong,China
+ST-140,Apple Sao Paulo,Sao Paulo,Brazil
+ST-141,Apple Milan,Milan,Italy
+ST-142,Apple Madrid,Madrid,Spain
+ST-143,Apple Copenhagen,Copenhagen,Denmark
+ST-144,Apple Brussels,Brussels,Belgium
+ST-145,Apple Stockholm,Stockholm,Sweden
+ST-146,Apple Vienna,Vienna,Austria
+ST-147,Apple Jakarta,Jakarta,Indonesia
+ST-148,Apple Doha,Doha,Qatar
+ST-149,Apple Kuala Lumpur,Kuala Lumpur,Malaysia
+ST-150,Apple Cape Town,Cape Town,South Africa
+ST-151,Apple Lisbon,Lisbon,Portugal
+ST-152,Apple Helsinki,Helsinki,Finland
+ST-153,Apple Oslo,Oslo,Norway
+ST-154,Apple Auckland,Auckland,New Zealand
+ST-155,Apple Dublin,Dublin,Ireland
+ST-156,Apple Warsaw,Warsaw,Poland
+ST-157,Apple Budapest,Budapest,Hungary
+ST-158,Apple Athens,Athens,Greece
+ST-159,Apple Manila,Manila,Philippines
+ST-160,Apple Lagos,Lagos,Nigeria
+ST-161,Apple Riyadh,Riyadh,Saudi Arabia
+ST-162,Apple Tel Aviv,Tel Aviv,Israel
+ST-163,Apple Prague,Prague,Czech Republic
+ST-164,Apple Hanoi,Hanoi,Vietnam
+ST-165,Apple Taipei,Taipei,Taiwan

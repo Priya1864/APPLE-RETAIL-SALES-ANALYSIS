@@ -87,7 +87,7 @@ The project enables deep insights into store performance, product sales, warrant
 
 ---
 
-## 🔍 Sample SQL Queries
+##  Sample SQL Queries
 
 - Total sales by year, product, and category.
 - Warranty claims with >10% claim ratio.
@@ -97,7 +97,7 @@ The project enables deep insights into store performance, product sales, warrant
 
 ---
 
-## ✅ Deliverables
+##  Deliverables
 
 - ✅ Fully normalized SQL schema.
 - ✅ Raw data files (CSV).
@@ -144,7 +144,7 @@ Consider scaling operations in underperforming regions with low claims but decen
 
 
 
-## 📬 Contact
+##  Contact
 
 **Author:** [PRIYA]  
 
